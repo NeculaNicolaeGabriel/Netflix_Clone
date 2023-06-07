@@ -1,5 +1,5 @@
 # Netflix_Clone
-NetflixClone Netflix-Clone
+ Netflix-Clone
 
 ![DemoGif](flixdemo.gif)
 
